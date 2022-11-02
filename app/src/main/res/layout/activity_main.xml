@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-<!--  리니어레이아웃 생성, 길이높이 모두 wrap하여 가운데 배치  -->
+<!--  리니어레이아웃 생성, 길이높이 모두 wrap하여 가운데 배치, 가로정렬  -->
     <LinearLayout
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
